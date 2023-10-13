@@ -7,7 +7,7 @@ description = "Reward citizens who participated in a crowdloan to acquire a para
 
 [dependencies]
 parity-scale-codec = { version = "3.6.5", default-features = false}
-serde = { version = "1.0.101", optional = true, features = ["derive"], default-features = false }
+serde = { version = "1.0.189", optional = true, features = ["derive"], default-features = false }
 log = { version = "0.4.20", default-features = false }
 scale-info = { version = "2.9.0", default-features = false, features = ["derive"] }
 
